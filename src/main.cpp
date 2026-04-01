@@ -4,7 +4,8 @@
 int main() {
     Calculator calc;
     int choice;
-    double num1, num2;
+    double num1;
+    double num2;
 
     std::cout << "Simple Calculator\n";
     std::cout << "1. Add\n2. Subtract\n3. Multiply\n4. Divide\n";
